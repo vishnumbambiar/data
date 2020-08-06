@@ -5,7 +5,7 @@
    
     
    
-Name: <input type="text"  placeholder="Name"/></br></br>
+Name: <input type="text"  placeholder="Name"/> </br></br>
 Gender:Male<input type="radio" name="Gender"/>
 Female<input type="radio" name="Gender"/>
 other<input type="radio" name="Gender"/></br></br>
@@ -27,7 +27,7 @@ State:<select>
 <option>KA</option>
 <option>JK</option>
 <option>KA</option>
-</select><br></br>
+</select></br></br>
 District:
 <input type="text"list="Districts"/>
 <datalist id="Districts">
